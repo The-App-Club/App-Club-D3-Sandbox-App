@@ -1,0 +1,24 @@
+*,
+::before,
+::after {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Kaushan Script';
+}
+
+header,
+footer {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 4rem;
+}
+
+.change-my-color {
+  // filter: invert(21%) sepia(100%) saturate(3618%) hue-rotate(102deg) brightness(96%) contrast(108%);
+}

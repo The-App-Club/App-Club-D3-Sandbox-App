@@ -1,0 +1,3 @@
+- Ref
+  - [d3-margin](https://gist.github.com/jsoma/71bee11bbe6b73887bca4138fd4d2442)
+  - [a-new-technique-for-making-responsive-javascript-free-charts-gmp](https://dev.to/richharris/a-new-technique-for-making-responsive-javascript-free-charts-gmp)

@@ -1,0 +1,4 @@
+- Reference
+  - [d3-part-3-selection-join-explained](https://observablehq.com/@philippkoytek/d3-part-3-selection-join-explained)
+  - [enter-exit-with-d3-join](https://www.createwithdata.com/enter-exit-with-d3-join/)
+  - [data-joins-d3](https://lvngd.com/blog/data-joins-d3/)

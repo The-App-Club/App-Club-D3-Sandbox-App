@@ -1,0 +1,8 @@
+- Reference
+  - [resize-observer-polyfill](https://github.com/que-etc/resize-observer-polyfill)
+  - [06-components-responsive](https://github.com/muratkemaldar/using-react-hooks-with-d3/tree/06-components-responsive)
+  - [responsive-d3-charts-in-react-resizeobserver-or-the-viewbox-attribute](https://stackoverflow.com/questions/64034706/responsive-d3-charts-in-react-resizeobserver-or-the-viewbox-attribute)
+  - [Using React (Hooks) with D3 – [06] Responsive Chart Components with ResizeObserver](https://www.youtube.com/watch?v=a4rstx9Pz2o&list=PLDZ4p-ENjbiPo4WH7KdHjh_EMI7Ic8b2B&index=8)
+  - [d3-part-3-selection-join-explained](https://observablehq.com/@philippkoytek/d3-part-3-selection-join-explained)
+  - [selection_join](https://github.com/d3/d3-selection/blob/main/README.md#selection_join)
+  - [building-racing-bar-chart-in-d3js](https://medium.com/analytics-vidhya/building-racing-bar-chart-in-d3js-d89b71cd3439)

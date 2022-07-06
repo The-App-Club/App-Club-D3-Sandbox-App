@@ -1,0 +1,4 @@
+- Ref
+  - [color scale bar graph](http://bl.ocks.org/zwang155/5079c689233607dd9bdd28d4e39fb290)
+  - [group-by](https://www.npmjs.com/package/group-by
+  - [how-to-create-a-horizontal-legend](https://stackoverflow.com/questions/42009622/how-to-create-a-horizontal-legend)

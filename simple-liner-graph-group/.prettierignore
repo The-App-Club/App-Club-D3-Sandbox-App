@@ -1,0 +1,6 @@
+yarn.lock
+.eslintignore
+.gitignore
+.prettierignore
+.stylelintignore
+*csv

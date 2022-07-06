@@ -1,0 +1,5 @@
+- Reference
+  - [d3_react_examples](https://github.com/mikec3/my_tutorials/tree/master/d3_react_examples)
+  - [axis-ticks](https://observablehq.com/@d3/axis-ticks)
+  - [scale-ticks](https://observablehq.com/@d3/scale-ticks)
+  - [d3-scaletime](https://observablehq.com/@d3/d3-scaletime)

@@ -1,0 +1,8 @@
+output
+node_modules*
+.gitignore
+.prettierignore
+.stylelintignore
+*csv
+*ico
+yarn.lock

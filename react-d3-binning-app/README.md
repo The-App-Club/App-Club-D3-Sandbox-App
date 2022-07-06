@@ -1,0 +1,3 @@
+- Reference
+  - [30. Binning in Python and Pandas](https://python-course.eu/numerical-programming/binning-in-python-and-pandas.php)
+  - [d3 binning hist](https://bl.ocks.org/d3noob/e68aa44f931ea663879cd14840190e12)

@@ -1,0 +1,2 @@
+- Reference
+  - [d3-pairs](https://observablehq.com/@d3/d3-pairs?collection=@d3/d3-array)

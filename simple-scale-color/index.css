@@ -1,0 +1,27 @@
+*,
+::before,
+::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  user-select: none;
+}
+svg {
+  overflow: visible;
+  margin: 3em;
+}
+
+line,
+polyline {
+  fill: none;
+  stroke: black;
+}
+
+.x text {
+  text-anchor: middle;
+}
+
+.y text {
+  text-anchor: end;
+  dominant-baseline: middle;
+}

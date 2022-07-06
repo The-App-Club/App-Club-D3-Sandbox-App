@@ -1,0 +1,11 @@
+node_modules
+.gitignore
+.prettierignore
+.stylelintignore
+*jpeg
+*ico
+.env
+yarn.lock
+.gitkeep
+src/assets/*
+.firebase*
